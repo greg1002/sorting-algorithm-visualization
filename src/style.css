@@ -1,0 +1,49 @@
+.group {
+  border-radius: 10px;
+  background: DeepSkyBlue;
+  padding: 5px;
+  margin: 5px;
+  min-height: 65px;
+}
+
+.group > *  {
+  display: inline-block;
+  margin: auto;
+}
+
+
+nav {
+  background-color: LightCyan;
+}
+
+
+h4 {
+  color: white;
+  font-size: 18px;
+  margin: auto;
+}
+
+h1 {
+  color: white;
+  font-weight: bold;
+  margin: auto;
+}
+
+.array-container {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  position: absolute;
+  height: 60%;
+  min-height: 400px;
+  min-width: 857.5px;
+  top: 180px;
+}
+
+.array-bar {
+  top: 0;
+}
+
+.array-bar-container {
+  display: inline-block;
+  height: 100%;
+}
